@@ -294,4 +294,4 @@ We will now try a multinomial logit model using the multinom() function
 
 
 
-
+test this
